@@ -60,6 +60,8 @@ flutter:
     - assets/fire.png
     - assets/card.png
     - assets/user.png
+    - assets/mic.png
+    - assets/send.png
 
 
   # The following line ensures that the Material Icons font is
