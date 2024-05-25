@@ -1,10 +1,10 @@
 # stroll_social
 
-A new Flutter project.
+A FE task for Job opportunity
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a voice based Dating app
 
 A few resources to get you started if this is your first Flutter project:
 
